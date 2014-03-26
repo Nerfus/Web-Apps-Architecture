@@ -1,1 +1,1 @@
-Repository for Web Application Architecture programming assignments.
+If you're reading this, I successfully created a repository. Woo.
